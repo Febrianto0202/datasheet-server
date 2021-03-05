@@ -56,7 +56,7 @@ See src/config.js for an example configuration sheet.
 ## [Quickstart](#quickstart)
 Clone the repository to your local:
 ```
-git clone https://www.github.com/forensic-architecture/datasheet-server
+https://github.com/Febrianto0202/datasheet-server.git
 ```
 
 Follow the steps in the [configuration](#configuration) section of this
@@ -79,11 +79,15 @@ docker run -d -p 0.0.0.0:4040:4040 datasheet-server
 ### Run locally
 Install dependencies:
 ```sh
-yarn # npm install
+yarn  
+or
+npm install
 ```
 And run development server:
 ```sh
-yarn dev # npm run dev
+yarn dev 
+or
+npm run dev
 ```
 
 ## Contribute
